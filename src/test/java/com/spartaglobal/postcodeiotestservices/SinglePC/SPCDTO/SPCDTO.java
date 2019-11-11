@@ -22,7 +22,5 @@ public class SPCDTO {
         this.result = result;
     }
 
-    public String getPostcode(){
-        return (String) result.get("postcode");
-    }
+
 }
